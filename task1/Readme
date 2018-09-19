@@ -1,0 +1,7 @@
+Example:
+sudo ./task1.sh example/ result.iso root root
+
+$1 - folder
+$2 - result name
+$3 - result user
+$4 - result group
